@@ -1,3 +1,3 @@
 # Clustering with mixed data types
 
-Used case of clustering with mixed data types (numeric &amp; categorical features)
+Used case for clustering with mixed data types (numeric &amp; categorical features)
